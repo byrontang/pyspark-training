@@ -1,0 +1,25 @@
+Public classes:
+
+SparkContext:
+Main entry point for Spark functionality.
+
+RDD:
+A Resilient Distributed Dataset (RDD), the basic abstraction in Spark.
+
+Broadcast:
+A broadcast variable that gets reused across tasks.
+
+Accumulator:
+An “add-only” shared variable that tasks can only add values to.
+
+SparkConf:
+For configuring Spark.
+
+SparkFiles:
+Access files shipped with jobs.
+
+StorageLevel:
+Finer-grained cache persistence levels.
+
+TaskContext:
+Information about the current running task, avaialble on the workers and experimental.
