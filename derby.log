@@ -1,8 +1,8 @@
 ----------------------------------------------------------------
-Mon Jun 01 19:31:45 CDT 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0172-7270-f55d-00000a2e8cd8 
-on database directory C:\Users\byron\Documents\GitHub\pyspark-training\metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@7d17982a 
-Loaded from file:/C:/Users/byron/spark-2.0.2-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+Tue Jun 02 20:40:19 CDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0172-77d6-1773-00000e66f208 
+on database directory C:\Users\byron\Documents\GitHub\pyspark-training\metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@5607de15 
+Loaded from file:/C:/Users/byron/spark-2.4.5-bin-hadoop2.7/jars/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_112-b15
 user.dir=C:\Users\byron\Documents\GitHub\pyspark-training
